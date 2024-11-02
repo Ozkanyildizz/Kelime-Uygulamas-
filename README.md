@@ -1,6 +1,7 @@
 # Kelime uygulaması (Word App)
 Bu ingilize öğrenmek isteyenlerin ihtiyaç duyacakları özellikleri bir arada barındıran bir masaüstü uygulaması.
 Temel amaç bilinmeyen kelime veya cümleleri kendi oluşturduğunuz listelerde düzenli bir şekilde kayıt etmek daha sonra bunlar üzerinde alıştırma yaparak o kelimeleri ezberlemek.
+Gemini AI tarafından oluşturulan quizlerle çalışabilirsiniz sizin için bütün şıkları teker teker açıklar. Aynı zamanda yazdığınız bir yazıyı gramatik olarak kontrol edip hataları düzeltir.
 # Bölümler
 ## 1) Liste:
   Burada istediğiniz kadar farklı liste oluşturup içerisine bilmediğiniz kelimelerinizi ekleyebilirisiniz.
