@@ -10,4 +10,6 @@ Temel amaç bilinmeyen kelime veya cümleleri kendi oluşturduğunuz listelerde 
   Gemini ile yazdığınız cümlelerdeki hataları bulabilir ve onları düzelttirebilirsiniz.
 ## 4) Egzersiz:
   * Birinci kısımda oluşturduğunuz listelerdeki kelimeler random bir şekilde karşınıza çıkar ve siz doğru cevabu bulmaya çalışırsınız
-  * Gemini AI sizin seçtiğiniz konu ve seviyede sizin için 4 seçenekli bir quiz oluşturur, siz cevap verdikten sonra size doğru olup olmadığını açıklar yanlış ise nedenini ve şıkları teker teker sizin içn açıklar.
+  * Gemini AI sizin seçtiğiniz konu ve seviyede sizin için 4 seçenekli bir quiz oluşturur, siz cevap verdikten sonra size doğru olup olmadığını açıklar yanlış ise nedenini ve şıkları teker teker sizin için açıklar.
+## Video 
+https://github.com/Ozkanyildizz/Word-App/blob/master/dosyalar
